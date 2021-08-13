@@ -1,0 +1,19 @@
+{
+  "name": "webdev-nodejs-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLevius/webdev-nodejs-study.git"
+  },
+  "author": "TheLevius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheLevius/webdev-nodejs-study/issues"
+  },
+  "homepage": "https://github.com/TheLevius/webdev-nodejs-study#readme"
+}
