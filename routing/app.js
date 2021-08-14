@@ -7,6 +7,7 @@ const PORT = 3030;
 
 const server = http.createServer((req, res)=>{
     console.log('Server request')
+    console.log('updates')
     let basePath = '';
     const createPath = (page) => path.resolve(__dirname, 'views', `${page}.html`);
     res.setHeader('Content-Type', 'text/html')
